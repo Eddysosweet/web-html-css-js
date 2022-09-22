@@ -56,6 +56,54 @@ const phones = (() => {
             linkProduct: '#',
             linkGuarantee: '#',
         },
+        {
+            img: 'url(https://cdn.mobilecity.vn/mobilecity-vn/images/2021/04/w150/xiaomi-redmi-k40-pro-2-1.jpg)',
+            name: 'Xiaomi Redmi K40 Pro (K40 Pro+)',
+            price: '8.750.000 đ',
+            markerList: ['hot', 'new'],
+            linkProduct: '#',
+            linkGuarantee: '#',
+        },
+        {
+            img: 'url(https://cdn.mobilecity.vn/mobilecity-vn/images/2021/03/w150/redmi-k40-full.jpg)',
+            name: 'Xiaomi Redmi K40',
+            price: '7.350.000 đ',
+            markerList: [],
+            linkProduct: '#',
+            linkGuarantee: '#',
+        },
+        {
+            img: 'url(https://cdn.mobilecity.vn/mobilecity-vn/images/2021/02/w150/asus-rog-phone-5-render-1-1200x675-800-resize.jpg)',
+            name: 'Asus ROG Phone 5 (Snap888)',
+            price: '14.650.000 đ',
+            markerList: ['hot', 'new'],
+            linkProduct: '#',
+            linkGuarantee: '#',
+        },
+        {
+            img: 'url(https://cdn.mobilecity.vn/mobilecity-vn/images/2021/02/w150/vivo-iqoo-7-white.jpg)',
+            name: 'Vivo iQOO 7 (Snap 888)',
+            price: '12.450.000 đ',
+            markerList: [],
+            linkProduct: '#',
+            linkGuarantee: '#',
+        },
+        {
+            img: 'url(https://cdn.mobilecity.vn/mobilecity-vn/images/2021/04/w150/asus-rog-phone-3.jpg)',
+            name: 'Asus ROG Phone 3 Tencent',
+            price: '11.950.000 đ',
+            markerList: [],
+            linkProduct: '#',
+            linkGuarantee: '#',
+        },
+        {
+            img: 'url(https://cdn.mobilecity.vn/mobilecity-vn/images/2019/09/w150/iphone-11-pro.jpg)',
+            name: 'iPhone 11 Pro (64GB, 256GB)',
+            price: '19.950.000 đ',
+            markerList: [],
+            linkProduct: '#',
+            linkGuarantee: '#',
+        }
     ];
 
     const banners = [
